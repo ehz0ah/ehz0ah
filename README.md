@@ -3,7 +3,7 @@
 I am... 
 
 - 📖 studying **Computer Engineering** at the **National University of Singapore (NUS)**.
-- ⚽ interested in **Embedded System Engineering**, **Software Engineering** and **Artificial Intelligence**
+- ⚽ interested in **Embedded System Engineering**, **Software Engineering** and **Internet of Things**
 
 Feel free to connect with me @ehzoah on Telegram! 🫂
 

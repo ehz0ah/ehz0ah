@@ -2,10 +2,10 @@
 
 I am... 
 
-- 📖 studying **Computer Engineering** at the **National University of Singapore (NUS)**.
-- ⚽ interested in **Embedded Systems**, **Software Engineering** and **Internet of Things**
+- 🔭 studying **Computer Engineering** at the **National University of Singapore (NUS)**.
+- ⚡ interested in **Embedded Systems**, **Software Engineering** and **Internet of Things**
 
-Feel free to connect with me @ehzoah on Telegram! 🫂
+Feel free to connect with me @ehzoah on Telegram! 🤝
 
 <hr/> 
 

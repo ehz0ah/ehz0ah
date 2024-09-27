@@ -5,7 +5,9 @@ I am...
 - 🔭 studying **Computer Engineering** at the **National University of Singapore (NUS)**.
 - ⚡ interested in **Embedded Systems**, **Software Engineering** and **Internet of Things**
 
-Feel free to connect with me @ehzoah on Telegram! 🤝
+Passionate about ambitious projects that demand innovation, efficiency, and real-time performance.
+
+Feel free to connect with me! 🤝
 
 <hr/> 
 

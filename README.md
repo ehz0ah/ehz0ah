@@ -3,7 +3,7 @@
 I am... 
 
 - 🔭 studying **Computer Engineering** at the **National University of Singapore (NUS)**.
-- ⚡ interested in **Embedded Systems**, **Software Engineering** and **Internet of Things**
+- ⚡ interested in **Embedded Systems** and **Artificial Intelligence of Things**
 
 Passionate about ambitious projects that demand innovation, efficiency, and real-time performance.
 
